@@ -16,4 +16,4 @@ jobs:
     steps:
       - uses: mayo829/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.MATRICS }}
